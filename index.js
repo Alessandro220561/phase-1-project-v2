@@ -66,7 +66,7 @@ function getRandomAnime() {
 }
 
 function changeColor() {
-    featuredAnime.style.color = "red";
+    featuredAnime.style.color = "#12A386";
 }
 
 function changeColorBack() {
