@@ -64,7 +64,7 @@ input[type=submit] {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding-left: 650px;
+    padding-left: 510px;
     padding-top: 30px;
     padding-bottom: 50px;
 }
@@ -127,5 +127,13 @@ input[type=submit] {
     display: flex;
     position: relative;
     flex-direction: row;
-    margin-left: 350px;
+    margin-left: 200px;
+}
+
+#watchlist {
+    background-color: #4b7383;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 16px;
+
 }

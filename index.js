@@ -40,7 +40,7 @@ function getAnime(e) {
 
 function getRandomAnime() {
     const randomAnime = Math.floor(Math.random() * 5000) + 1
-    fetch(`https://api.jikan.moe/v4/anime/${randomAnime}`)
+    fetch(`https://api.jikan.moe/v4/anime/${randomAnime}/full`)
     .then(response => response.json())
     .then(data => {
         const anime = data.data
@@ -65,6 +65,10 @@ function getRandomAnime() {
         .catch(error => alert("Anime Not Found!"))
 }
 
+function saveAnime(e) {
+    
+}
+saveAnime()
 function changeColor() {
     featuredAnime.style.color = "#12A386";
 }
