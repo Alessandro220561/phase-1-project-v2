@@ -65,10 +65,6 @@ function getRandomAnime() {
         .catch(error => alert("Anime Not Found!"))
 }
 
-function saveAnime(e) {
-    
-}
-saveAnime()
 function changeColor() {
     featuredAnime.style.color = "#12A386";
 }
