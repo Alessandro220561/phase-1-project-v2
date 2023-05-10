@@ -72,3 +72,5 @@ function changeColor() {
 function changeColorBack() {
     featuredAnime.style.color = "black"
 }
+
+
