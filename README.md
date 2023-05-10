@@ -21,3 +21,4 @@ If you already know the title of your favorite show, type it into our search bar
 ![Demo FindYourAnime](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM0MmMzODM5NTE0OTdjYmNhZDFhY2IxMjllNTYyZTBhZTllNGRlYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VExyFVJQqlODbIN31a/giphy.gif)
 
 
+
